@@ -1,0 +1,16 @@
+D:\CSAL\AverageTime\AverageTime\bin\Debug\AverageTime.exe.config
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.csprojResolveAssemblyReference.cache
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.Form1.resources
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.Properties.Resources.resources
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.csproj.GenerateResource.Cache
+D:\CSAL\AverageTime\AverageTime\bin\Debug\AverageTime.exe
+D:\CSAL\AverageTime\AverageTime\bin\Debug\AverageTime.pdb
+D:\CSAL\AverageTime\AverageTime\bin\Debug\CSALMongo.dll
+D:\CSAL\AverageTime\AverageTime\bin\Debug\MongoDB.Bson.dll
+D:\CSAL\AverageTime\AverageTime\bin\Debug\MongoDB.Driver.dll
+D:\CSAL\AverageTime\AverageTime\bin\Debug\CSALMongo.pdb
+D:\CSAL\AverageTime\AverageTime\bin\Debug\CSALMongo.xml
+D:\CSAL\AverageTime\AverageTime\bin\Debug\MongoDB.Bson.xml
+D:\CSAL\AverageTime\AverageTime\bin\Debug\MongoDB.Driver.xml
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.exe
+D:\CSAL\AverageTime\AverageTime\obj\Debug\AverageTime.pdb
